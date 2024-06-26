@@ -15,6 +15,7 @@
     <div align="center">
     <a><img src="https://iili.io/d3MqoSR.png" alt="Sample-sheet"/></a>
   </div>
+  
    #### Login with your google account in which you should have created a spreadsheet
    #### Toggle on GET and POST Requests
    #### Toogle on Basic Authentication
@@ -25,7 +26,7 @@
 ### Save all required Environment Variables in .env file in the same directory
 
 <div align="center">
-  <a><img src="https://iili.io/d3MHSd7.png"" alt=".env-file"/></a>
+  <a><img src="https://iili.io/d3MAjTJ.png" alt=".env-file"/></a>
 </div>
 
 ### SpreadSheet Data

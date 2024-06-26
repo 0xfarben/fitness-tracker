@@ -18,8 +18,8 @@
     </div>
   
    #### Login with your google account in which you should have created a spreadsheet
-   #### Toggle on GET and POST Requests
-   #### Toogle on Basic Authentication
+   #### ✅Toggle on GET and POST Requests
+   #### ✅Toogle on Basic Authentication
 
 ## Working
 ### The Sheety API is for saving your excercise inputs and processed outputs.

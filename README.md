@@ -10,10 +10,12 @@
 ## Working
 ### The Sheety API is for saving your excercise inputs
 ### The Nutrition API is for processing the input
+### Save all required Environment Variables in .env file in the same directory
 
 <div align="center">
   <a><img src="https://iili.io/d3GtdTQ.png"" alt="SpreadSheet"/></a>
 </div>
+
 ### Output
 <div align="center">
   <a><img src="https://iili.io/d3GLl8x.png"" alt="Program-Output"/></a>

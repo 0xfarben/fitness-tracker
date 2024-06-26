@@ -5,7 +5,13 @@
 
 ## Required APIs
 1. Nutrition API (https://www.nutritionix.com/business/api)
+   API Docs : https://docx.syndigo.com/developers
+  <div align="center">
+    <a><img src="https://iili.io/d3G4ZUQ.png" alt="LOGO"/></a>
+  </div>
+   
 2. Sheety (https://sheety.co/)
+   #### Login with your google account in which you should have created a sample 
 
 ## Working
 ### The Sheety API is for saving your excercise inputs

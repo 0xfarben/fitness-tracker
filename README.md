@@ -29,6 +29,31 @@
   <a><img src="https://iili.io/d3MAjTJ.png" alt=".env-file"/></a>
 </div>
 
+
+## RUN LOCALLY :
+
+### Node must be installed on your local machine to run locally. Install it from : <a href="https://nodejs.org/" >NODE JS</a>
+### After installing Node follow below steps.
+Clone the project
+
+```bash
+  git clone https://github.com/0xfarben/fitness-tracker.git
+```
+
+Go to the project directory
+
+```bash
+  cd fitness-tracker
+```
+
+NOTE: Before running make sure .env file values are correct
+Run the Python file
+
+```bash
+  python main.py
+```
+
+
 ### SpreadSheet Data
 <div align="center">
   <a><img src="https://iili.io/d3GtdTQ.png"" alt="SpreadSheet"/></a>

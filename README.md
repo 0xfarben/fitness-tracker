@@ -10,10 +10,11 @@
 ## Working
 ### The Sheety API is for saving your excercise inputs
 ### The Nutrition API is for processing the input
+
+<div align="center">
+  <a><img src="https://iili.io/d3GtdTQ.png"" alt="SpreadSheet"/></a>
+</div>
 ### Output
 <div align="center">
   <a><img src="https://iili.io/d3GLl8x.png"" alt="Program-Output"/></a>
-</div>
-<div align="center">
-  <a><img src="https://iili.io/d3GtdTQ.png"" alt="SpreadSheet"/></a>
 </div>

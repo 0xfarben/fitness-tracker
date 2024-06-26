@@ -22,7 +22,7 @@
    #### Toogle on Basic Authentication
 
 ## Working
-### The Sheety API is for saving your excercise inputs
+### The Sheety API is for saving your excercise inputs and processed outputs.
 ### The Nutrition API is for processing the input
 ### Save all required Environment Variables in .env file in the same directory
 

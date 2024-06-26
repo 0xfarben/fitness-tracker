@@ -5,6 +5,7 @@
 
 ## Required APIs
 1. Nutrition API (https://www.nutritionix.com/business/api)
+   #### Get the first Plan (Hacker Plan)
    API Docs : (https://docx.syndigo.com/developers)
   <div align="center">
     <a><img src="https://iili.io/d3G4ZUQ.png" alt="LOGO"/></a>
@@ -13,8 +14,8 @@
 2. Sheety (https://sheety.co/)
    #### Make a spreadsheet like this 👇🏻
     <div align="center">
-    <a><img src="https://iili.io/d3MqoSR.png" alt="Sample-sheet"/></a>
-  </div>
+      <a><img src="https://iili.io/d3MqoSR.png" alt="Sample-sheet"/></a>
+    </div>
   
    #### Login with your google account in which you should have created a spreadsheet
    #### Toggle on GET and POST Requests
@@ -32,8 +33,8 @@
 
 ## RUN LOCALLY :
 
-### Node must be installed on your local machine to run locally. Install it from : <a href="https://nodejs.org/" >NODE JS</a>
-### After installing Node follow below steps.
+### Make sure python is installed in your system.  Install it from : <a href="https://python.org/" >PYTHON.ORG</a>
+
 Clone the project
 
 ```bash
